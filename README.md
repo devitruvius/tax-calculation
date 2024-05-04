@@ -64,3 +64,11 @@ This program calculates the income tax for individuals and legal entities in Bra
 ## Contributing
 
 Please feel free to fork the repository and submit pull requests.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+If you have any questions or suggestions, please feel free to contact me.
